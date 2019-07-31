@@ -38,7 +38,7 @@ for city in df_canada_destination["Province"]:
     print(f"{city}: {lat}, {lng}")
     location.append([lat, lng])
 ```
-Now you have latitude and longitude in a list (location),  then you can pass it through gmaps to and call the heat map.
+Now you have latitude and longitude in a list (location),  then you can pass it through gmaps and call the heat map.
 ```
 import gmaps
 # Configure gmaps with API key
@@ -62,7 +62,10 @@ fig
 ```
 # Data Analysis
 The first step of this analysis was to import all CSV files and create data frames for them. Then, I plotted some results, for instance:
+
 Temporary Worker of Top 3 countries:
+
+![GitHub Logo](/Screenshots/TemporaryWorkerTop3countries.png)
 
 Number of immigrants moving to Canada:
 
