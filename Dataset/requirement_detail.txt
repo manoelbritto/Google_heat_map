@@ -1,0 +1,22 @@
+- mean, median
+
+- number of retirements
+
+- GDP
+
+- Average age of population
+
+- plot bar and line (median and mean)
+
+1 - General Analysis : 
+	1 - Immigration
+	2 - Destination
+	3 - GDP AND CPI
+	4 - Population number
+	5 - Age population
+	6 - Unemployer and Employer
+	7 - Crime rate
+
+
+	https://tradingeconomics.com/canada/unemployment-rate
+	http://docs.tradingeconomics.com/#streaming

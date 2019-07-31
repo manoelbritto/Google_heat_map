@@ -1,0 +1,16 @@
+1 - https://open.canada.ca/data/en/dataset/2bf9f856-20fe-4644-bf74-c8e45b3d94bd
+
+1.5 Temporary Foreign Worker Program work permit holders with a valid permit on December 31st by top 50 countries of citizenship¹, 2008 to 2017 [CSV]
+	IRCC_FF_TR_2017_05_CSV.csv
+
+1.8. Temporary Foreign Worker Program work permit holders with a valid permit on December 31st by destination¹, 2008 to 2017 [CSV]
+
+	IRCC_FF_TR_2017_08_CSV_destination.csv
+
+
+9.1. Temporary Foreign Worker Program work permit holders who became permanent residents by program and landing year, 2008 to 2017
+	IRCC_FF_TR_2017_33_CSV_temp_pr.csv
+
+2 - https://open.canada.ca/data/en/dataset/082f05ba-e333-4132-ba42-72828d95200b
+15. Canada - Permanent residents by source country, 2008 - 2017
+	IRCC_FF_PR_2017_15_CSV_pr_contry.csv
