@@ -83,4 +83,13 @@ Based on the result above, I could generate the heat map based on the province l
 
 ![GitHub Logo](/Screenshots/map.png)
 
+
+## Features
+
+1.	Python
+2.	Libraries: 
+a.	Panda
+b.	Matplotlib
+c. gmaps
+3.	IDE - jupyter notebook
  
