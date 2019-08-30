@@ -1,5 +1,5 @@
 # Project: Canada Immigration
-This Project analyzed data from immigration to Canada, in this case, show us the top 3 countries that people come from. Moreover, which province they choose to leave when they land in Canada. 
+This Project analyzed data from immigration to Canada, in this case, show us the top 3 countries that people come from. Moreover, which province they choose to live in Canada. 
 
 # Data Set
 I downloaded many data set from Open Canada (https://open.canada.ca/data/en/dataset). And they are related to:
